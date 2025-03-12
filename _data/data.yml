@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: moyenuddin075@gmail.com
   phone: +880 1786775661
-  timezone: Asia/Dhaka# Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Asia/Dhaka
   citizenship: Bangladeshi
   website: https://moyenu2000.github.io
   linkedin: moyenuddin
@@ -259,3 +259,4 @@ skills:
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
