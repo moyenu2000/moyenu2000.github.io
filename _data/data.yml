@@ -53,37 +53,23 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Passionate software developer skilled in React.js, Spring Boot, and backend development. 
+    Strong problem-solving abilities with 700+ solved algorithmic challenges (Codeforces max rating: 1497).  
+    Experienced in building scalable web applications, API integrations, and database optimization.  
+    Enthusiastic about cybersecurity, CTF competitions, and exploring new technologies.
+
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: B.Sc. in Computer Science and Engineering
+    university: Bangladesh University of Engineering and Technology (BUET)
+    time: Jan 2022 – Present
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - Currently Level 3, Term 2
+      - CGPA: 3.72/4.00 (Till Level 3, Term 1)
+      - Strong foundation in algorithms, data structures, databases, and software engineering
+      - Engaged in competitive programming and software development projects
+
 
 experiences:
   title: Experiences
