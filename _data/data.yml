@@ -3,54 +3,52 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True 
+  position: right  # Position of the sidebar: left or right
+  about: True  # Set to False or comment line to remove the "how to use?" section in the sidebar
+  education: True  
 
+  # Profile information
   name: Moyen Uddin
-  tagline:
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  tagline: "Software Developer | React.js | Spring Boot"
+  avatar: profile.png  # Place a 100x100 picture inside /assets/images/ folder and provide the file name
 
   # Sidebar links
   email: moyenuddin075@gmail.com
   phone: +880 1786775661
   timezone: Asia/Dhaka
   citizenship: Bangladeshi
-  website: https://moyenu2000.github.io
+  website: "https://moyenu2000.github.io"
   linkedin: moyenuddin
-  xing:
   github: moyenu2000
-  telegram: # add your nickname without '@' sign
+  telegram:
   gitlab:
   bitbucket:
-  bluesky:  # Specify your full Bluesky handle
+  bluesky:
   twitter:
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  stack-overflow:
   codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  goodreads:
+  mastodon:
+  hackerrank:
+  leetcode:
+  pdf:
 
   languages:
-    title: Languages
+    title: "Languages"
     info:
-    - idiom: Bangla
-      level: Native
+      - idiom: "Bangla"
+        level: "Native"
 
-    - idiom: English
-      level: Working Proficiency
+      - idiom: "English"
+        level: "Working Proficiency"
 
   interests:
-    title: Interests
+    title: "Interests"
     info:
-    - item: Reading
-      link:
-
+      - item: "Reading"
 
 career-profile:
-  title: Career Profile
+  title: "Career Profile"
   summary: |
     Passionate software developer skilled in React.js, Spring Boot, and backend development. 
     Strong problem-solving abilities with 700+ solved algorithmic challenges (Codeforces max rating: 1497).  
@@ -58,81 +56,77 @@ career-profile:
     Enthusiastic about cybersecurity, CTF competitions, and exploring new technologies.
 
 education:
-  title: Education
+  title: "Education"
   info:
-  - degree: B.Sc. in Computer Science and Engineering
-    university: Bangladesh University of Engineering and Technology (BUET)
-    time: Jan 2022 – Present
-    details: |
-      - Currently Level 3, Term 2
-      - CGPA: 3.72/4.00 (Till Level 3, Term 1)
-      - Strong foundation in algorithms, data structures, databases, and software engineering
-      - Engaged in competitive programming and software development projects
+    - degree: "B.Sc. in Computer Science and Engineering"
+      university: "Bangladesh University of Engineering and Technology (BUET)"
+      time: "Jan 2022 – Present"
+      details: |
+        - Currently Level 3, Term 2
+        - CGPA: 3.72/4.00 (Till Level 3, Term 1)
+        - Strong foundation in algorithms, data structures, databases, and software engineering
+        - Engaged in competitive programming and software development projects
 
 projects:
-  title: Projects
-  intro: >
+  title: "Projects"
+  intro: |
     Key projects showcasing my skills in full-stack development, API integration, and performance optimization.
 
   assignments:
-  - title: NetCareerBD Frontend
-    link: https://github.com/moyenu2000/NetCareer_Frontend
-    tagline: |
-      Developed the frontend for a coaching center website using React.js and Tailwind CSS, ensuring a modern 
-      and fully responsive user interface.
-      - Replicated Udvash website homepage within two days.
-      - Tech Stack: React.js (Vite), Tailwind CSS.
-      - Features: Responsive UI, optimized performance, modular components.
+    - title: "NetCareerBD Frontend"
+      link: "https://github.com/moyenu2000/NetCareer_Frontend"
+      tagline: |
+        Developed the frontend for a coaching center website using React.js and Tailwind CSS, ensuring a modern 
+        and fully responsive user interface.
+        - Replicated Udvash website homepage within two days.
+        - Tech Stack: React.js (Vite), Tailwind CSS.
+        - Features: Responsive UI, optimized performance, modular components.
 
-  - title: HealthHub Backend
-    link: https://github.com/moyenu2000/healthhub_javafest
-    tagline: |
-      Developed a microservices-based AI-driven healthcare platform using Spring Boot, integrating OpenAI’s API 
-      for symptom analysis and specialist recommendations.
-      - Implemented JWT-based authentication with role-based access control.
-      - Configured Spring Cloud Gateway for centralized API routing and security.
-      - Tech Stack: Java, Spring Boot, OpenAI API, MongoDB, JWT, Spring Cloud Gateway, Eureka Server.
-      - Features: AI-driven symptom analysis, secure authentication, scalable microservices.
+    - title: "HealthHub Backend"
+      link: "https://github.com/moyenu2000/healthhub_javafest"
+      tagline: |
+        Developed a microservices-based AI-driven healthcare platform using Spring Boot, integrating OpenAI’s API 
+        for symptom analysis and specialist recommendations.
+        - Implemented JWT-based authentication with role-based access control.
+        - Configured Spring Cloud Gateway for centralized API routing and security.
+        - Tech Stack: Java, Spring Boot, OpenAI API, MongoDB, JWT, Spring Cloud Gateway, Eureka Server.
+        - Features: AI-driven symptom analysis, secure authentication, scalable microservices.
 
-  - title: E-commerce Website (L2-T2 Project)
-    link: https://github.com/moyenu2000/buyNSell
-    tagline: |
-      Built an online shopping platform using React.js, Oracle SQL, and Express.js for a seamless user experience.
-      - Designed a fully responsive UI with React.js and Material-UI.
-      - Integrated real-time chat functionality using socket programming.
-      - Tech Stack: React.js, Oracle SQL, Express.js, Material-UI.
-      - Features: Responsive UI, real-time chat, optimized database queries.
-
+    - title: "E-commerce Website (L2-T2 Project)"
+      link: "https://github.com/moyenu2000/buyNSell"
+      tagline: |
+        Built an online shopping platform using React.js, Oracle SQL, and Express.js for a seamless user experience.
+        - Designed a fully responsive UI with React.js and Material-UI.
+        - Integrated real-time chat functionality using socket programming.
+        - Tech Stack: React.js, Oracle SQL, Express.js, Material-UI.
+        - Features: Responsive UI, real-time chat, optimized database queries.
 
 skills:
   title: "Skills & Proficiency"
-
   toolset:
-  - name: "C++ & JavaScript"
-    level: 98%
+    - name: "C++ & JavaScript"
+      level: "98%"
 
-  - name: "Java & Python"
-    level: 85%
+    - name: "Java & Python"
+      level: "85%"
 
-  - name: "React.js & Spring Boot"
-    level: 95%
+    - name: "React.js & Spring Boot"
+      level: "95%"
 
-  - name: "PostgreSQL & MongoDB"
-    level: 90%
+    - name: "PostgreSQL & MongoDB"
+      level: "90%"
 
-  - name: "Node.js & Git"
-    level: 88%
+    - name: "Node.js & Git"
+      level: "88%"
 
-  - name: "Oracle & Flutter"
-    level: 70%
+    - name: "Oracle & Flutter"
+      level: "70%"
 
-  - name: React Native
-    level: 65%
+    - name: "React Native"
+      level: "65%"
 
-  - name: Problem Solving (700+ problems, Codeforces Max Rating: 1497)
-    level: 95%
+    - name: "Problem Solving (700+ problems, Codeforces Max Rating: 1497)"
+      level: "95%"
 
-
-footer: >
+footer: |
   Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/moyenu2000" target="_blank" rel="nofollow">Moyen Uddin</a>
-
