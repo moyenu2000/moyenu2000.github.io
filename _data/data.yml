@@ -105,25 +105,25 @@ projects:
 
 
 skills:
-  title: Skills & Proficiency
+  title: "Skills & Proficiency"
 
   toolset:
-  - name: C++ & JavaScript
+  - name: "C++ & JavaScript"
     level: 98%
 
-  - name: Python & Java
+  - name: "Java & Python"
     level: 85%
 
-  - name: React.js & Spring Boot
+  - name: "React.js & Spring Boot"
     level: 95%
 
-  - name: PostgreSQL & MongoDB
+  - name: "PostgreSQL & MongoDB"
     level: 90%
 
-  - name: Node.js & Git
+  - name: "Node.js & Git"
     level: 88%
 
-  - name: Oracle & Flutter
+  - name: "Oracle & Flutter"
     level: 70%
 
   - name: React Native
